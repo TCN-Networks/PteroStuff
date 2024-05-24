@@ -3,7 +3,7 @@ import asyncio
 from tqdm.asyncio import tqdm
 
 PANEL_URL = 'https://panel.tcnetwk.cloud'
-API_KEY = 'ptla_sEVl5kIJHdiuqeFD1bf8124dcOol2MTZdFEs4i56QJY'
+API_KEY = 'YOUR_API_KEY'
 LOCATION_ID = 2  # Location ID for servers you want to delete
 
 headers = {
